@@ -5,3 +5,4 @@ The first is about planetary motion, which addresses and solves 7 questions abou
 shapes that the orbits can take. 
 This project was a group endevour for my Mathematical Programming module.
 
+The second is my sudoku board generator, which was a dive into class based programming for me.
